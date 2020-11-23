@@ -1,0 +1,4 @@
+ ID  Nama       Bahasa Inggris  Fisika  Algoritma 
+ 1   Doni       89.0            80.0    90.0      
+ 3   Reza       95.0            80.0    88.0      
+ 7   Wahyu      99.0            83.0    78.0      
