@@ -1,0 +1,1 @@
+{"manager":[{"tunjangan pulsa":250000,"total gaji":21250000,"tunjangan transport":1000000,"nama":"manager1","telepon":1234567,"tunjangan entertaint":10000000,"id":1},{"tunjangan pulsa":250000,"total gaji":21250000,"tunjangan transport":1000000,"nama":"manager2","telepon":7654321,"tunjangan entertaint":10000000,"id":2}]}
