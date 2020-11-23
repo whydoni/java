@@ -1,0 +1,20 @@
+ID: 10
+Name: Irene
+Score: 97
+
+ID: 15
+Name: Wahyu
+Score: 101
+
+ID: 21
+Name: Doni
+Score: 100
+
+ID: 30
+Name: Adek
+Score: 89
+
+ID: 52
+Name: Fuad
+Score: 90
+
